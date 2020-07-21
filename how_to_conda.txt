@@ -1,0 +1,9 @@
+
+// how to create environment and with .yml file
+#conda env create -f pytorch_enc.yml
+
+// activate the environment
+# conda activate <envi_name>
+
+// deactivate the environment
+# conda deactivate
